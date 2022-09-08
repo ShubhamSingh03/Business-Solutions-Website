@@ -12,17 +12,17 @@
 ***
 ## Description
 
-This project [Business Solutions Website]()[Front-end] is a collection of various webpages for firm that provides IT solutions and was built using Semantic HTML, CSS and **Bootstrap** from scratch.This project was build for just fun because of its simple UI and to brush up Bootstrap. This project has various webpages including Home page, services page, contact page, and so on.
+This project [Business Solutions Website](https://business-bootstrap.netlify.app)[Front-end] is a collection of various webpages for firm that provides IT solutions and was built using Semantic HTML, CSS and **Bootstrap** from scratch.This project was build for just fun because of its simple UI and to brush up Bootstrap. This project has various webpages including Home page, services page, contact page, and so on.
 
 ***
 
 ### Links for Project
 
-* <a href="" target="_blank">Live Project Link</a>
+* <a href="https://business-bootstrap.netlify.app" target="_blank">Live Project Link</a>
 
 * [Youtube Video Demo]()
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Business-Solutions-Website)
 
 ***
 ### Built With 
