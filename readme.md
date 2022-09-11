@@ -20,7 +20,7 @@ This project [Business Solutions Website](https://business-bootstrap.netlify.app
 
 * <a href="https://business-bootstrap.netlify.app" target="_blank">Live Project Link</a>
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/7IDhXqJjExA)
 
 * [Source Code](https://github.com/ShubhamSingh03/Business-Solutions-Website)
 
@@ -83,20 +83,17 @@ This project [Business Solutions Website](https://business-bootstrap.netlify.app
 <br>
 
 ### Checkout Portfolio & Other Projects
-<br>
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
-<br>
-
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
 * [Github](https://github.com/ShubhamSingh03)
-* [Findcoder]()
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#business-solutions-website)
